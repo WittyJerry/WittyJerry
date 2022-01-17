@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @WittyJerry
-- 👀 I’m interested in Data Science 
+- 👋 Hi, I’m @Jerry Olatoyan
+- 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Python for Data Science 
-- 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me jerryolatoyan1@gmail.com 
+- 💞️ I look forward to collaborate and build Data Science Projects
+- 📫 You can reach me via jerryolatoyan1@gmail.com 
 
 <!---
 WittyJerry/WittyJerry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
