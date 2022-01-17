@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jerry Olatoyan
+- 👋 Hi, I’m Jerry Olatoyan
 - 👀 I’m interested in Data Science and Artificial Intelligence
 - 🌱 I’m currently learning Python for Data Science 
 - 💞️ I look forward to collaborate and build Data Science Projects
