@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jerry Olatoyan
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m currently learning Python for Data Science 
+- 🌱 I’m currently on the path to become a world class Data Scientist. 
 - 💞️ I look forward to collaborate and build Data Science Projects
 - 📫 You can reach me via jerryolatoyan1@gmail.com 
 
