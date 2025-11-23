@@ -14,7 +14,7 @@ I specialise in turning raw data into business intelligence that helps companies
 
 ### 💰 Increase Revenue
 - Identify hidden sales opportunities  
-- Optimise pricing strategies  
+- Optimize pricing strategies  
 - Analyse customer behaviour patterns  
 
 ### ⚙️ Streamline Operations
