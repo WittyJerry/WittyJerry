@@ -31,7 +31,7 @@ I specialise in turning raw data into business intelligence that helps companies
 
 ## 🧰 Tools & Technologies
 - **SQL:** PostgreSQL, SQL Server, MYSQL  
-- **Excel:** Advanced formulas, Power Query, VBA  
+- **Microsoft Excel:** Advanced formulas, Power Query, VBA  
 - **Power BI:** DAX, Data Modelling, Dashboards  
 - **Tableau**  
 - **Python:** Pandas, NumPy (intermediate)  
