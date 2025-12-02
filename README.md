@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jerry Olatoyan  
-**Data Analyst | SQL • Power BI • Microsoft Excel • Tableau • Python | Retail & Financial Insights Specialist**
+**Data Analyst | SQL • Power BI • Microsoft Excel • Tableau • Looker • Python | Retail & Financial Insights Specialist**
 
 ---
 
